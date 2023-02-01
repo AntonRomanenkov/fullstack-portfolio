@@ -27,25 +27,25 @@
 
 			&:first-child {
 				a {
-					background-image: url(../../../Assets/images/icons/tw.png);
+					background-image: url(../../../Assets/images/icons/fv.png);
 				}
 			}
 			&:nth-child(2) {
 				a {
-					background-image: url(../../../Assets/images/icons/dr.png);
+					background-image: url(../../../Assets/images/icons/fl.png);
 				}
 			}
 			&:nth-child(3) {
 				a {
+					background-image: url(../../../Assets/images/icons/lk.png);
+				}
+			}
+			&:nth-child(4) {
+				a {
 					background-image: url(../../../Assets/images/icons/gh.png);
 				}
 			}
-			// &:nth-child(4){
-			//     a{
-			//         background-image: url(../../../Assets/images/icons/re.png);
-			//     }
-			// }
-			&:nth-child(4) {
+			&:nth-child(5) {
 				a {
 					background-image: url(../../../Assets/images/icons/ma.png);
 				}
