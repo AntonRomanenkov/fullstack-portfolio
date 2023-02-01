@@ -3,9 +3,8 @@
 # Personal Portfolio
 
 My personal portfolio which features the most recent projects I worked on as well as my resume and technical skills. \
-The website is live **[here.](https://eduardconstantin.github.io)**
+The website is live **[here.](https://romanenkovanton.github.io)**
 
-<img src="https://github.com/eduardconstantin/eduardconstantin.github.io/blob/master/gif/portfolio.gif">
 
 ## Sections 📚
 ✔️ About me \
